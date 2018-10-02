@@ -5,5 +5,5 @@
 
 ### The picture bellow is about each one of us who are facing a comfort bubble of other. 
 
-![] (img/fearofbubble.png)
+![](img/fearofbubble.png)
 
